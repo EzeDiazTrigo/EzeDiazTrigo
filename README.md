@@ -6,11 +6,11 @@
               I am seeking opportunities to join an IT team in a company where I can grow professionally and contribute with my skills.<br><br>
               I'm from Ciudad Autonoma de Buenos Aires, Argentina.<br><br></p>
 
-<h3>My GitHub Stats</h3>
+<h2>My GitHub Stats</h2>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EzeDiazTrigo&show_icons=true&theme=dark&locale=en&layout=compact" alt="EzeDiazTrigo" /></p>
-<br><br><br><br><br>
-<h4> My Skills </h4>
+<br><br><br><br><br><br>
+<h2> My Skills </h2>
       <span class="tag2">- Microsoft Office</span><br>
       <span class="tag2">- Microsoft Access</span><br>
       <span class="tag2">- Kotlin</span><br>
